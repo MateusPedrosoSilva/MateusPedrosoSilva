@@ -6,9 +6,9 @@
 
 ## About me
 
-- 🐺 Working on some personal projects
-- 👨🏻‍💻 Always studying to improve
-- 🎸 Like to play guitar and some day will learn sax 🎷
+* 🐺 Working on some personal projects
+* 👨🏻‍💻 Always studying to improve
+* 🎸 Like to play guitar and some day will learn sax 🎷
 
 <br />
 
@@ -24,6 +24,7 @@
 
 ### Languages and Frameworks
 
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="css3" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
@@ -34,6 +35,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="30" height="30"/>
+</p>
 
 <br />
 
