@@ -1,16 +1,16 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Mateus</h1>
+<h1 align="center">Olá <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, eu sou o Mateus</h1>
 
-<h3 align="center">A developer from Brazil</h3>
+<h3 align="center">Um desenvolvedor do Brasil</h3>
 
 <!-- TODO: Create other in pt_BR -->
 
-## About me
+## Sobre
 
-* 🐺 Working on some personal projects
-* 👨🏻‍💻 Always studying to improve
-* 🎸 Like to play guitar and some day will learn sax 🎷
+* 🐺 Trabalhando em alguns projetos pessoais
+* 👨🏻‍💻 Sempre estudando para melhorar
+* 🎸 Gosto de tocar guitarra e um dia vou aprender sax 🎷
 
-### Connect with me
+### Entre em contato
 
 [<img align="left" alt="mateuspedroso.com.br" width="25px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Mateuspedroso | Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -19,7 +19,7 @@
 
 <br />
 
-### Languages and Frameworks
+### Linguagens e frameworks
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="30" height="30"/> 
@@ -34,7 +34,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="30" height="30"/>
 </p>
 
-### Tools
+### Ferramentas
 
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
