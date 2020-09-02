@@ -29,8 +29,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="30" height="30"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="typescript" width="30" height="30"/>
-<img src="https://img.icons8.com/color/100/000000/dart.png" alt="typescript" width="30" height="30"/>
-<img src="https://img.icons8.com/color/100/000000/flutter.png" alt="typescript" width="30" height="30"/>
+<img src="https://img.icons8.com/color/100/000000/dart.png" alt="dart" width="30" height="30"/>
+<img src="https://img.icons8.com/color/100/000000/flutter.png" alt="flutter" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" alt="php" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="30" height="30"/>
