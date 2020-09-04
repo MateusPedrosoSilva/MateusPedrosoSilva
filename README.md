@@ -49,7 +49,7 @@
 
 <!-- [![Spotify](https://mateuspedroso.vercel.app/api/spotify)](https://open.spotify.com/user/mateuspedrosodev) -->
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuspedrososilva&show_icons=true" alt="mateuspedrososilva" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuspedrososilva&show_icons=true" alt="github stats card mateuspedrososilva" /></p>
 
 <p align="center">
 <a href="https://codepen.io/mateuspedroso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen mateuspedroso" height="30" width="30" /></a>
