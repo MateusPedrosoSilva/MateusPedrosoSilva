@@ -49,6 +49,17 @@
 
 <!-- [![Spotify](https://mateuspedroso.vercel.app/api/spotify)](https://open.spotify.com/user/mateuspedrosodev) -->
 
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuspedrososilva&show_icons=true" alt="mateuspedrososilva" /></p>
+
+<p align="center">
+<a href="https://codepen.io/mateuspedroso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen mateuspedroso" height="30" width="30" /></a>
+<a href="https://dev.to/mateuspedroso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to mateuspedroso" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/11506320" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow 11506320" height="30" width="30" /></a>
+<a href="https://codesandbox.com/mateuspedrososilva" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="codesandbox mateuspedrososilva" height="30" width="30" /></a>
+<a href="https://medium.com/@mateuspedroso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@mateuspedroso" height="30" width="30" /></a>
+<a href="https://www.youtube.com/c/uc6i40pydcyx2st80alyk5fq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="uc6i40pydcyx2st80alyk5fq" height="30" width="30" /></a>
+</p>
+
 <!-- Images 
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
 https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
