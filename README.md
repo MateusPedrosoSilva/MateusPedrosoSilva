@@ -45,6 +45,10 @@
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" />
 
+<!-- ### Spotify Playing  🎵🎶 -->
+
+<!-- [![Spotify](https://mateuspedroso.vercel.app/api/spotify)](https://open.spotify.com/user/mateuspedrosodev) -->
+
 <!-- Images 
 https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png
 https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg
