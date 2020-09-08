@@ -36,6 +36,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="30" height="30"/>
 </p>
 
+<br />
+
 ### Tools
 
 <p>
@@ -53,7 +55,8 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mateuspedrososilva&show_icons=true" alt="github stats card mateuspedrososilva" /></p>
 
-<p align="center">
+<!-- <p align="center"> -->
+<p>
 <a href="https://codepen.io/mateuspedroso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="codepen mateuspedroso" height="30" width="30" /></a>
 <a href="https://dev.to/mateuspedroso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to mateuspedroso" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/11506320" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow 11506320" height="30" width="30" /></a>
@@ -73,7 +76,7 @@ https://www.youtube.com/watch?v=n6d4KHSKqGk
  -->
 
 <!-- Links -->
- [website]: https://mateuspedroso.com.br
- [linkedin]: https://linkedin.com/in/mateuspedroso
- [instagram]: https://instagram.com/mtspedroso/
- [twitter]: https://twitter.com/MateusPSilva
+[website]: https://mateuspedroso.com.br
+[linkedin]: https://linkedin.com/in/mateuspedroso
+[instagram]: https://instagram.com/mtspedroso/
+[twitter]: https://twitter.com/MateusPSilva
