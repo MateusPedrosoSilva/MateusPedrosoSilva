@@ -2,13 +2,14 @@
 
 <h3 align="center">A developer from Brazil</h3>
 
-<!-- TODO: Create other in pt_BR -->
+<!-- TODO: Create other in pt_BR - Put the link here -->
 
 ## About me
 
 * 🐺 Working on some personal projects
 * 👨🏻‍💻 Always studying to improve
 * 🎸 Like to play guitar and some day will learn sax 🎷
+* 🎲 Boardgame player and designer
 
 ### Connect with me
 
